@@ -1,4 +1,5 @@
 .env
+.venv
 backend/.env/
 backend/.ipynb_checkpoints/
 backend/__pycache__/
